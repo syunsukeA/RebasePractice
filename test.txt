@@ -1,2 +1,3 @@
 This is branch_1.
-Please wriet something after this comment.
+
+ここはブランチ１です！"Please wriet something after this comment."は削除してしまいました！
