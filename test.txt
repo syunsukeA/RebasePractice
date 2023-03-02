@@ -1,2 +1,4 @@
 This is branch_1.
-Please wriet something after this comment.
+branch1ではこのこの文が消されてます → Please wriet something after this comment.
+
+ここはブランチ２です。
